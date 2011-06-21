@@ -4,7 +4,7 @@
   <property name="fallbackdirectory">/WEB-INF/base/emfrontend</property>
   <property name="title">EMTube</property>
   <property name="applicationid">emtube</property>
-  <property name="catalogid">media/catalogs/video</property>
+  <property name="catalogid">media/catalogs/public</property>
   <property name="parentapplicationid">media</property>
   <!-- property name="contentsiteroot">http://s3.amazonaws.com/emtube</property -->
 

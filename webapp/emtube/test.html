@@ -1,0 +1,4 @@
+#set( $searcher = $searcherManager.getSearcher($catalogid,"asset"))
+$searcher.getIndexWriter().commit();
+$searcher.getIndexWriter().close();
+
